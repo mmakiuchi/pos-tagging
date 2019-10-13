@@ -21,7 +21,7 @@ This project was developed for a Natural Language Processing lecture.
 
 # How to run
 
-To run the code, simply save all the files in the same directory and run `python3 baseline.py`.
+To run the code, simply save all the files in the same directory and run `python3 pos_baseline.py`.
 
 ## References
 
