@@ -14,9 +14,14 @@ This project was developed for a Natural Language Processing lecture.
 
 ## Files
 
-* `baseline.py` : main file with all the functions required to execute the baseline for the POS tagging
+* `pos_baseline.py` : main file with all the functions required to execute the baseline for the POS tagging
+* `pos_helpers.py` : helper functions to read/save text files and to manipulate the text data
 * `train.txt` : train file acquired from [1]
 * `test.txt` : train file acquired from [1]
+
+# How to run
+
+To run the code, simply save all the files in the same directory and run `python3 baseline.py`.
 
 ## References
 
